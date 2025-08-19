@@ -94,7 +94,7 @@ Importance of Identifying design properties of a mock up design
 - Scrun Master:
   Facilitates agile processess, removes blockers, organizes meetings.
 
-  UI COMPONENT PATTERNS
+  UI Component Patterns
 
 1. Navbar:
    Includes logo, search bar, user navigation, Responsive menu.
