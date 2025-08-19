@@ -66,4 +66,41 @@ Importance of Identifying design properties of a mock up design
 - Consistency across the Project
 - Accurate Implementation
 - Improved Collaboration
-- Documentation & Professionalism
+- Documentation & Professionalism.
+
+  PROJECT ROLES AND RESPONSIBILITIES
+
+- Project Manager:
+  Oversees timeline, coordinates team, manages deliverables.
+
+- Frontend Developer:
+  Implements UI components, ensures responsive design
+
+- Backend Developer:
+  Builds API, manages database, implements business logic.
+
+- Designers:
+  Creates mockups, maintain design systems, ensures UX quality.
+
+- QA/Testers:
+  Writes test cases, perform testing, reports bugs.
+
+- Devops Engineers:
+  Manages developement, CI/CD pipeline, server Infrastructure.
+
+- Product Owner:
+  Defines requirement, priortizes features, represents Stakeholders
+
+- Scrun Master:
+  Facilitates agile processess, removes blockers, organizes meetings.
+
+  UI COMPONENTS PATTERNS
+
+1. Navbar:
+   Includes logo, search bar, user navigation, Responsive menu.
+
+2. Property Card:
+   Includes property image, basic details(price, location, rating), favorite button, responsive layout.
+
+3. Footer
+   Includes site links, company information, social media links, copright informatio
