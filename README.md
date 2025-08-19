@@ -12,4 +12,27 @@ Learn to implement responsive UI/UX designs
 Understand how to structure a complex web application
 Practice working in a team with defined roles
 Develop skills in component-based frontend architecture
-Learn best practices for web application development
+Learn best practices for web application development.
+
+UI/UX Design Planning.
+
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
+
+Key Features
+
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication
+
+Primary Pages
+
+- Property listing View: Grid dsplay of available propertes with filters
+- Lisitng detailed View: Complete property details with images and booking form
+- Simple Checkout View: Streamlined Payment and Booking Confirmation.
+
+Importance of a user-friendly design
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
